@@ -9,4 +9,6 @@ Run Main_FeatSet2.java -> ……(2)
 (4) …. Input to CPT_to_CCS.java ….. (5)
 (5) ….. Input to ICD10ToCCS.java …..(6)
 (6) …..Input to ICD10ProcToCCS.java ….. (7)
-cat (7)  + (2) to produce final feat set. …(FINAL)
+
+====> Append (7) and (2) to generate the final feature set
+
